@@ -15,7 +15,7 @@
 
 # 3. 智能体协作协议体系定义的规范
 
-智能体协作协议体系（Agent Collaboration Protocols，ACPs）是为保障异构智能体之间高效协作、支持多样化智能体互联应用而设计的标准化通信与交互协议体系与上图中实体属性和实体间接口序号对应，ACPs 中定义了如下规范和协议：
+智能体协作协议体系（Agent Collaboration Protocols，ACPs）是基于AIP为保障异构智能体之间高效协作、支持多样化智能体互联应用而设计与实现的标准化交互协议体系，ACPs 中定义了如下规范和协议：
 
 (1)[智能体协作协议体系（Agent Collaboration Protocols，ACPs）](01/ACPs-spec.md)
 
